@@ -68,3 +68,14 @@ A functional Oracle database system that organizes movie information and ratings
 5. GroupLens Research. (1998). *MovieLens 100K dataset* [Data set]. University of Minnesota. https://grouplens.org/datasets/movielens/100k/
 
 6. Oracle. (2019). *Oracle Database PL/SQL Language Reference*. https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/
+## Phase I – Business Process Modeling
+
+### Business Process
+Movie Rating Submission and Analysis Process.
+
+### Documentation
+- [Business Process Diagram](docs/business_process/business_process_diagram.pdf)
+- [Business Process Explanation](docs/business_process/business_process_explanation.pdf)
+
+### Phase I Summary
+The process describes how users browse movies, select a movie, submit a rating, and receive movie and genre analysis. The system validates ratings, stores valid ratings in the database, retrieves rating data for analysis, and displays the results.
